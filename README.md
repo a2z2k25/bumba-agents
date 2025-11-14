@@ -121,8 +121,6 @@ forty-thieves/
 
 ## 🏁 BUMBA Framework
 
-The Forty Thieves agency is the **multi-agent architecture component** of the BUMBA Framework - Building Unified Multi-agent Business Applications.
-
 ### Framework Components
 
 | Component | Purpose | Emoji |
@@ -136,17 +134,13 @@ The Forty Thieves agency is the **multi-agent architecture component** of the BU
 
 ## 📖 The Legend
 
-> *In the story of Ali Baba, forty thieves worked together, each with unique skills, to unlock treasures hidden in a cave. The Forty Thieves agency follows that tradition—forty specialized AI agents, each a master of their craft, working together within the BUMBA Framework to unlock software excellence.*
+> *In the story of Ali Baba, Forty Thieves worked together, each with unique skills, to unlock fortune. The Forty Thieves Agent Team follows that tradition—forty specialized AI agents, each a master of their craft, working together within the BUMBA Framework to unlock software excellence.*
 
 
 ---
 
 <div align="center">
 
-🏁 **FORTY THIEVES** - Multi-Agent Architecture for the BUMBA Framework
-
-*Professional • Intelligent • Enterprise-Ready*
-
-**"Open Sesame"**
+🏁 **40 THIEVES** - Multi-Agent Architecture for the BUMBA Framework 🏁
 
 </div>

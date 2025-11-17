@@ -111,8 +111,6 @@ forty-thieves/
 
 ### 🏁 Key Features ###
 
-<br>
-
 - **40 Specialized Agents** - across 5 domains (engineering, design, product, quality, operations)
 - **Hierarchical Coordination** - chiefs delegate to specialists for optimal task execution
 - **Claude Code Native** - optimized for read, write, edit, grep, glob, task, bash tools

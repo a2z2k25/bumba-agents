@@ -8,13 +8,13 @@
 ```
 
 
-## 🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁
+**🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁**
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
 
 
-## 🏁 How It Works
+**🏁 How It Works**
 
 Chiefs coordinate strategy and spawn specialists via the task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
@@ -22,7 +22,7 @@ Example: 🟢 Engineering Chief receives auth request → spawns Backend Archite
 
 
 
-## 🏁 Structure
+**🏁 Structure**
 
 ```
 Forty Thieves:
@@ -75,7 +75,7 @@ Forty Thieves:
 
 
 
-## 🏁 Usage
+**🏁 Usage**
 
 ```bash
 # Work with a Chief
@@ -86,7 +86,7 @@ claude code --agent chiefs/product-chief.md
 ```
 
 
-## 🏁 Repository
+**🏁 Repository**
 
 ```
 forty-thieves/
@@ -99,16 +99,16 @@ forty-thieves/
     └── operations/
 ```
 
-## 🏁 Key Features
+**🏁 Key Features**
 
-### Agent Capabilities
+**Agent Capabilities**
 - 🏁 40 specialized agents across 5 domains (engineering, design, product, quality, operations)
 - 🟢 Hierarchical coordination - Chiefs delegate to specialists for optimal task execution
 - 🔴 Claude Code native - Optimized for Read, Write, Edit, Grep, Glob, Task, Bash tools
 - 🟡 Battle-tested patterns - RICE prioritization, ReAct loops, SRE principles, WCAG standards
 - 🟠 Production-ready - Security audits, performance testing, scalability patterns
 
-### BUMBA Framework Integration
+**BUMBA Framework Integration**
 - **Professional Development** - Industry-standard workflows and coordination patterns
 - **Multi-agent Orchestration** - Intelligent task delegation and parallel execution
 - **Enterprise-Ready** - Quality enforcement, testing automation, deployment pipelines

@@ -7,8 +7,9 @@
      ╚═╝  ╚═════╝        ╚═╝    ╚═╝  ╚═╝ ╚═╝ ╚══════╝   ╚═══╝   ╚══════╝ ╚══════╝
 ```
 
+<br>
 
-### 🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁 ###
+### 🏁 BUMBA CLI Framework Multi-Agent Orchestration ###
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
@@ -18,11 +19,15 @@
 
 Chiefs coordinate strategy and spawn specialists via the task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
-Example: 🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
+<br>
+
+### 🏁 Example Workflow ###
+
+🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
 
 <br>
 
-### 🏁 Structure ###
+### 🏁 Team Structure ###
 
 ```
 Forty Thieves:
@@ -75,7 +80,7 @@ Forty Thieves:
 
 <br>
 
-### 🏁 Usage ###
+### 🏁 Usage Directions ###
 
 
 ```bash
@@ -88,7 +93,7 @@ claude code --agent chiefs/product-chief.md
 
 <br>
 
-### 🏁 Repository ###
+### 🏁 Repository Instructions ###
 
 
 ```
@@ -106,6 +111,7 @@ forty-thieves/
 
 ### 🏁 Key Features ###
 
+<br>
 
 **Agent Capabilities**
 - **40 specialized agents** across 5 domains (engineering, design, product, quality, operations)
@@ -114,6 +120,7 @@ forty-thieves/
 - **Battle-tested patterns** RICE prioritization, ReAct loops, SRE principles, WCAG standards
 - **Production-ready** security audits, performance testing, scalability patterns
 
+<br>
 
 **BUMBA Framework Integration**
 - **Professional Development** industry-standard workflows and coordination patterns
@@ -121,7 +128,7 @@ forty-thieves/
 - **Enterprise-Ready** quality enforcement, testing automation, deployment pipelines
 - **Consistent Structure** predictable agent definitions across all 40 specialists
 
----
+--
 
 🏁 40 THIEVES - Multi-Agent Architecture for the BUMBA Framework 🏁
 

@@ -123,6 +123,6 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 ---
 
 <div align="center">
-```
+
 ### 🏁 BUMBA CLI Framework Multi-Agent Orchestration Framework 🏁 ###
 </div>

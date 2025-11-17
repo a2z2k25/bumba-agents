@@ -8,7 +8,7 @@
 ```
 
 
-##🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁**
+##🏁 Part of the Multi-Agent BUMBA CLI Framework 🏁##
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 

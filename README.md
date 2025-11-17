@@ -12,7 +12,7 @@
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
-
+<br>
 
 ### 🏁 How It Works ###
 
@@ -20,7 +20,7 @@ Chiefs coordinate strategy and spawn specialists via the task tool for focused e
 
 Example: 🟢 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + 🟠 Security Auditor (review) → delivers integrated system.
 
-
+<br>
 
 ### 🏁 Structure ###
 
@@ -73,9 +73,7 @@ Forty Thieves:
     └── Network Engineer
 ```
 
-
-
-
+<br>
 
 ### 🏁 Usage ###
 
@@ -88,9 +86,7 @@ claude code --agent chiefs/product-chief.md
 # Chiefs spawn specialists automatically as needed
 ```
 
-
-
-
+<br>
 
 ### 🏁 Repository ###
 
@@ -106,9 +102,7 @@ forty-thieves/
     └── operations/
 ```
 
-
-
-
+<br>
 
 ### 🏁 Key Features ###
 

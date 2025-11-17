@@ -30,7 +30,7 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 ### 🏁 Agent Team Structure ###
 
 ```
-40 Thieves:
+🏁 40 Thieves:
 │
 ├── 🟡 Product Chief
 │   │
@@ -91,16 +91,20 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 
 
 ```
-forty-thieves/
+🏁 forty-thieves/
 │
 ├── chiefs/          (5 managers)
 │
 └── specialists/     (35 subagents)
     │
-    ├── 🟡strategy/
-    ├── 🟠qa-testing/
-    ├── 🟠operations/
+    ├── 🟡 strategy/
+    │
+    ├── 🟠 qa-testing/
+    │
+    ├── 🟠 operations/
+    │
     ├── 🟢 engineering/
+    │
     └── 🔴 design/
 ```
 

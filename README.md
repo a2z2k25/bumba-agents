@@ -1,36 +1,36 @@
 ```
-██╗  ██╗  ██████╗     ████████╗ ██╗  ██╗ ██╗ ███████╗ ██╗   ██╗ ███████╗ ███████╗
-██║  ██║ ██╔═████╗    ╚══██╔══╝ ██║  ██║ ██║ ██╔════╝ ██║   ██║ ██╔════╝ ██╔════╝
-███████║ ██║██╔██║       ██║    ███████║ ██║ █████╗   ██║   ██║ █████╗   ███████╗
-╚════██║ ████╔╝██║       ██║    ██╔══██║ ██║ ██╔══╝   ╚██╗ ██╔╝ ██╔══╝   ╚════██║
-     ██║ ╚██████╔╝       ██║    ██║  ██║ ██║ ███████╗  ╚████╔╝  ███████╗ ███████║
-     ╚═╝  ╚═════╝        ╚═╝    ╚═╝  ╚═╝ ╚═╝ ╚══════╝   ╚═══╝   ╚══════╝ ╚══════╝
+██████╗  ██╗   ██╗ ███╗   ███╗ ██████╗   █████╗      █████╗   ██████╗  ███████╗ ███╗   ██╗ ████████╗ ███████╗
+██╔══██╗ ██║   ██║ ████╗ ████║ ██╔══██╗ ██╔══██╗    ██╔══██╗ ██╔════╝  ██╔════╝ ████╗  ██║ ╚══██╔══╝ ██╔════╝
+██████╔╝ ██║   ██║ ██╔████╔██║ ██████╔╝ ███████║    ███████║ ██║  ███╗ █████╗   ██╔██╗ ██║    ██║    ███████╗
+██╔══██╗ ██║   ██║ ██║╚██╔╝██║ ██╔══██╗ ██╔══██║    ██╔══██║ ██║   ██║ ██╔══╝   ██║╚██╗██║    ██║    ╚════██║
+██████╔╝ ╚██████╔╝ ██║ ╚═╝ ██║ ██████╔╝ ██║  ██║    ██║  ██║ ╚██████╔╝ ███████╗ ██║ ╚████║    ██║    ███████║
+╚═════╝   ╚═════╝  ╚═╝     ╚═╝ ╚═════╝  ╚═╝  ╚═╝    ╚═╝  ╚═╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═══╝    ╚═╝    ╚══════╝
 ```
 
 <br>
 
-### 🏁 Multi-Agent Orchestration ###
+### Multi-Agent Orchestration ###
 
 40 specialized AI Agents. Hierarchical coordination. Production-ready patterns. Claude Code native. The Forty Thieves Agent Team combines 5 Chiefs (strategic leaders) and 35 Specialists (domain experts). Each Agent is a master of their craft, working together to unlock software excellence.
 
 ---
 
-### 🏁 How It Works ###
+### How It Works ###
 
 Chiefs coordinate strategy and spawn specialists via the task tool for focused execution. All agents use Claude Code native tools (Read, Write, Edit, Grep, Glob, Task, Bash) and follow the ReAct pattern.
 
 ---
 
-### 🏁 Example Workflow ###
+### Example Workflow ###
 
 Engineering Chief receives auth request → spawns Backend Architect (design) + API Engineer (OAuth) + Database Specialist (schema) + Security Auditor (review) → delivers integrated system.
 
 <br>
 
-### 🏁 Agent Team Structure ###
+### Agent Team Structure ###
 
 ```
-🏁 40 Thieves:
+Bumba Agents - The Forty Thieves:
 │
 ├── 🟡 Product Chief
 │   │
@@ -86,11 +86,11 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 
 <br>
 
-### 🏁 Repository Instructions ###
+### Repository Structure ###
 
 
 ```
-🏁 forty-thieves/
+bumba-agents/
 │
 ├── chiefs/          (5 managers)
 │
@@ -110,7 +110,7 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 
 <br>
 
-### 🏁 Key Features ###
+### Key Features ###
 
 - **40 Specialized Agents** - across 5 domains (engineering, design, product, quality, operations)
 - **Hierarchical Coordination** - chiefs delegate to specialists for optimal task execution
@@ -124,5 +124,5 @@ Engineering Chief receives auth request → spawns Backend Architect (design) + 
 
 <div align="center">
 
-### 🏁 BUMBA Multi-Agent Orchestration Framework 🏁 ###
+### Bumba Agents - Multi-Agent Orchestration Framework ###
 </div>
